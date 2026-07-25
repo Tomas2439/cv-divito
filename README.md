@@ -2,7 +2,7 @@
 
 CV interactivo estilo portfolio, de una sola página (single file), con diseño oscuro tipo "commit-log" pensado para un perfil en desarrollo de software con background técnico/mecánico.
 
-🔗 **Ver online:** _(Tomas2439.github.io/cv-divito/)_
+🔗 **Ver online:** _([CV Online](https://tomas2439.github.io/cv-divito/))_
 
 ---
 
